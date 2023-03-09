@@ -1,0 +1,54 @@
+SonarQube plugins:
+  - Python Code Quality and Security 3.4.1.8066 (python)
+  - CSS Code Quality and Security 1.4.2.2002 (cssfamily)
+  - Go Code Quality and Security 1.8.3.2219 (go)
+  - JaCoCo 1.1.1.1157 (jacoco)
+  - Kotlin Code Quality and Security 1.8.3.2219 (kotlin)
+  - JavaScript/TypeScript Code Quality and Security 7.4.4.15624 (javascript)
+  - Ruby Code Quality and Security 1.8.3.2219 (ruby)
+  - Scala Code Quality and Security 1.8.3.2219 (sonarscala)
+  - C# Code Quality and Security 8.22.0.31243 (csharp)
+  - Java Code Quality and Security 6.15.1.26025 (java)
+  - HTML Code Quality and Security 3.4.0.2754 (web)
+  - Flex Code Quality and Security 2.6.1.2564 (flex)
+  - XML Code Quality and Security 2.2.0.2973 (xml)
+  - PHP Code Quality and Security 3.17.0.7439 (php)
+  - VB.NET Code Quality and Security 8.22.0.31243 (vbnet)
+  - Community Branch Plugin 1.8.0 (communityBranchPlugin)
+Global server settings:
+  - email.from=chethan.ts@cognizant.com
+  - email.smtp_host.secured=******
+  - email.smtp_password.secured=******
+  - email.smtp_username.secured=******
+  - sonar.core.id=D95FC48C-AXMj5YIEaZ7WQhnsmyhB
+  - sonar.core.startTime=2022-02-24T11:51:42+0530
+  - sonar.dbcleaner.branchesToKeepWhenInactive=master,develop,trunk,branch-.*,release-.*
+  - sonar.forceAuthentication=false
+  - sonar.plugins.risk.consent=ACCEPTED
+Project server settings:
+Project scanner properties:
+  - sonar.binaries=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\target\classes
+  - sonar.groovy.binaries=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\target\classes
+  - sonar.host.url=http://10.142.196.128:9090
+  - sonar.java.binaries=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\target\classes
+  - sonar.java.jdkHome=C:\Program Files\Java\jdk1.8.0_261
+  - sonar.java.source=1.5
+  - sonar.java.target=1.5
+  - sonar.java.test.libraries=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\target\classes
+  - sonar.links.ci=
+  - sonar.links.homepage=http://maven.apache.org
+  - sonar.links.issue=
+  - sonar.links.scm=
+  - sonar.links.scm_dev=
+  - sonar.moduleKey=com.cts.corelogic:BasicCalculatorWeB
+  - sonar.projectBaseDir=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB
+  - sonar.projectBuildDir=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\target
+  - sonar.projectKey=com.cts.corelogic:BasicCalculatorWeB
+  - sonar.projectName=BasicCalculatorWeB Maven Webapp
+  - sonar.projectVersion=0.0.1-SNAPSHOT
+  - sonar.scanner.app=ScannerMaven
+  - sonar.scanner.appVersion=3.9.0.2155/3.6.3
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\src\main\webapp,C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\pom.xml
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\445479\eclipse-workspace\BasicCalculatorWeB\target\sonar

@@ -1,0 +1,6 @@
+projectKey=com.cts.corelogic:BasicCalculatorWeB
+serverUrl=http://10.142.196.128:9090
+serverVersion=8.9.1.44547
+dashboardUrl=http://10.142.196.128:9090/dashboard?id=com.cts.corelogic%3ABasicCalculatorWeB
+ceTaskId=AX8rFvX_2uUGyU6-RxZn
+ceTaskUrl=http://10.142.196.128:9090/api/ce/task?id=AX8rFvX_2uUGyU6-RxZn
